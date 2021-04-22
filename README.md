@@ -10,6 +10,7 @@ For example, let’s take an image of this turtle and Katsushika Hokusai’s The
 ![image](https://user-images.githubusercontent.com/58273769/115754767-2e3e2000-a3ba-11eb-891a-34d3b5777a32.png)
 
 What will happen if Hokusai decided to add the texture or style of his waves to the image of the turtle? Something like this?
+
 ![image](https://user-images.githubusercontent.com/58273769/115754839-4150f000-a3ba-11eb-9210-a2ba9ae0c901.png)
 
 Style transfer is a fun and interesting technique that showcases the capabilities and internal representations of neural networks.
